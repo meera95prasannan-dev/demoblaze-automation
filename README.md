@@ -1,12 +1,12 @@
-Demoblaze E-Commerce Automation Testing
+**Demoblaze E-Commerce Automation Testing**
 
-Project Overview
+**Project Overview**
 
 This project automates functional test scenarios for the Demoblaze e-commerce application using Selenium WebDriver, Java, TestNG, Maven, and the Page Object Model (POM) design pattern.
 
 The objective is to validate key user journeys, including registration, login, product browsing, cart operations, and order placement.
 
-Tech Stack
+**Tech Stack**
 
 Programming Language: Java
 
@@ -22,7 +22,7 @@ IDE: Eclipse
 
 Version Control: Git and GitHub
 
-Project Structure
+**Project Structure**
 
 src
 ├── main/java/pages
@@ -40,7 +40,7 @@ pom.xml
 README.md
 .gitignore
 
-Automated Test Scenarios
+**Automated Test Scenarios**
 
 Home page loading and validation
 
@@ -60,7 +60,7 @@ Remove product from cart
 
 Place an order and verify confirmation
 
-Prerequisites
+**Prerequisites**
 
 Java JDK
 
@@ -70,7 +70,7 @@ Maven
 
 Google Chrome browser
 
-How to Run the Tests
+**How to Run the Tests**
 
 Clone this repository:
 
@@ -82,6 +82,6 @@ Ensure the required dependencies are configured in pom.xml.
 
 Run the required TestNG test classes from Eclipse, or execute the suite using Maven if the project is configured for it.
 
-Author
+**Author**
 
 Meera Prasannan
