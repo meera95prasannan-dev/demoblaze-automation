@@ -5,7 +5,11 @@
 This project automates functional test scenarios for the Demoblaze e-commerce application using Selenium WebDriver, Java, TestNG, Maven, and the Page Object Model (POM) design pattern.
 
 The objective is to validate key user journeys, including registration, login, product browsing, cart operations, and order placement.
+
+
 **Website URL** :https://www.demoblaze.com/index.html
+
+
 **Tech Stack**
 
 Programming Language: Java
